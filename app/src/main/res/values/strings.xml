@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuthActivity</string>
+    <string name="btn_authenticate">Authenticate</string>
+    <string name="input_user">Username</string>
+    <string name="input_password">Password</string>
+    <string name="main_login_result">My result here</string>
+</resources>
